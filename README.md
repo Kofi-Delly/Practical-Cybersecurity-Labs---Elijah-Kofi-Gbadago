@@ -23,7 +23,7 @@ Command
 ─(kali㉿Kali)-[~]
 └─$ nmap -sn 10.6.6.0/24
 ```
-![Screenshot of host discovery output](screenshots/host_of_discovery_output.png)
+![Screenshot of host discovery output](screenshots/Screenshot_of_host_discovery_output.png)
 
 2. OS Fingerprinting
 Attempts to identify the Operating System of the target 10.6.6.23 based on TCP/IP stack behavior.
