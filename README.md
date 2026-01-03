@@ -97,3 +97,18 @@ The purpose of this lab was to utilize **Nikto**, an Open Source (GPL) web serve
 
 # Link to the lab documentation:
 [Vulnerability Scanning Lab with Nikto](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Vulnerability%20Scanning%20Lab%20with%20Nikto)
+
+
+
+# Web Application Vulnerability Scanning with OWASP ZAP
+
+## 1. Objective
+The main goal of this lab was to conduct a Dynamic Application Security Testing (DAST) scan against a vulnerable target (Damn Vulnerable Web Application - DVWA) to identify security flaws. I utilized **OWASP ZAP (Zed Attack Proxy)** to perform an automated scan of the **DVWA (Damn Vulnerable Web Application)** to find issues such as Remote Code Execution (RCE) and Information Disclosure.
+
+## 2. Tools & Environment
+* **Scanner:** OWASP ZAP v2.13.0
+* **Target:** DVWA (Damn Vulnerable Web Application) running on `172.17.0.2`
+* **Platform:** Kali Linux
+
+# Link to the lab documentation:
+[Web Application Vulnerability Scanning with OWASP ZAP](https://github.com/Kofi-Delly/Practical-Cybersecurity-Labs/tree/main/Web_Application_Vulnerability_Scanning_with_OWASP_ZAP)
