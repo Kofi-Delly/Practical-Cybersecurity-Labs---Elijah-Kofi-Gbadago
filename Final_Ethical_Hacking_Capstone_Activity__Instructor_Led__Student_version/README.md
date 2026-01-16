@@ -47,6 +47,6 @@ This capstone reinforced the importance of:
 3.  **Configuration Management:** Disabling default features like Directory Indexing and Guest accounts.
 
 ### You can find the documentation here:
-[Final Ethical Hacking Capstone Activity Instructor-Led Student versio](Final_Ethical_Hacking_Capstone_Activity__Instructor_Led__Student_version/Final_Ethical_Hacking_Capstone_Activity__Instructor_Led__Student_version.pdf)
+[Final Ethical Hacking Capstone Activity Instructor-Led Student versio](Final_Ethical_Hacking_Capstone_Activity__Instructor_Led__Student_version.pdf)
 
 *Disclaimer: This project was conducted in a controlled, isolated lab environment for educational purposes.*
